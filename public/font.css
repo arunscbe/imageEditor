@@ -1,0 +1,29 @@
+
+@font-face {
+	font-family: 'Athletic Block';
+	src: url('/fonts/athletic.ttf')
+}
+@font-face {
+	font-family: 'Ballpark';
+	src: url('/fonts/ballpark.ttf')
+}
+@font-face {
+	font-family: 'Pro Block';
+	src: url('/fonts/pro_block.woff')
+}
+@font-face {
+	font-family: 'Full Block';
+	src: url('/fonts/full_block.woff')
+}
+@font-face {
+	font-family: 'Brush Script';
+	src: url('/fonts/brush-script-3.ttf')
+}
+@font-face {
+	font-family: 'Tiffany';
+	src: url('/fonts/tiffany.woff')
+}
+@font-face {
+	font-family: 'City Block';
+	src: url('/fonts/cityb.woff')
+}
